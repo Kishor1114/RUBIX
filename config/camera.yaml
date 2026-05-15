@@ -1,0 +1,10 @@
+# Camera configuration for Rubik's Cube Scanner
+
+# Index of the webcam:
+# 0 = default laptop/USB camera
+# 1,2,... = external webcams if multiple are connected
+index: 0
+
+# Recommended resolution for stable color detection and grid alignment
+width: 640
+height: 480
